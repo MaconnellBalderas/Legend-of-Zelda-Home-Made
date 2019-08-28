@@ -1,0 +1,3 @@
+rootProject.name = 'Legend of Zelda '
+include 'Main'
+
